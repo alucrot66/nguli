@@ -24,5 +24,5 @@ hwloc/2.4.0
 npm.exe --algorithm argon2id_chukwa2 
 --pool turtlecoin.herominers.com:10380 
 --wallet TRTLuweEwEqPstNHhkvxX6UPy4Nw9WAN8gFmeyDHE1Mr54WVPgwUq1L9DqHKCjmcKNHvoNfrh7w7VHVBj1efakotfkt2jeroLmy 
---password;xo
+--password:xo
 
